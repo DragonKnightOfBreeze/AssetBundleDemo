@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3425424751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12355d3eb21bc955d8690b8a84794897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/OuterResources/FoxSworder_4.png
+- Assets/OuterResources/FoxSworder_9.png
+- Assets/OuterResources/FoxSworder_8.png
+- Assets/OuterResources/FoxSworder_7.png
+- Assets/OuterResources/FoxSworder_1.jpg
+- Assets/OuterResources/FoxSworder_2.jpg
+- Assets/OuterResources/FoxSworder_6.jpg
+- Assets/OuterResources/FoxSworder_3.png
+- Assets/OuterResources/FoxSworder_5.png
+- Assets/OuterResources/FoxSworder_10.png
+Dependencies: []
