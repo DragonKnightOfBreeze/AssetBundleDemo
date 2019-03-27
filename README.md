@@ -1,6 +1,6 @@
 # AssetBundleDemo
 
-［Unity］AssetBundle框架学习：基础知识
+［Unity］AssetBundle学习
 
 # ToRefactor
 
